@@ -1,0 +1,8 @@
+{
+  "name": "Verity Lens: Fake News Detector",
+  "description": "A robust Fake News Detection system that classifies news articles and social media posts as real or fake using the Gemini API. It also includes an integrated chatbot for general inquiries.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
